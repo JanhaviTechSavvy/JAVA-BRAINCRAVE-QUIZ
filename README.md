@@ -11,4 +11,6 @@ This project reflects my foundational learning in Java and my journey into softw
 
 ## ⚠️ Note
 
-Java Applets are deprecated in modern development. This project is maintained for educational purposes to demonstrate fundamental Java concepts.
+This project represents hands-on practice of core Java concepts, including GUI development and event-driven programming.
+
+It demonstrates a strong foundation in Java, which serves as a base for building modern applications.
